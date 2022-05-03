@@ -5,3 +5,5 @@ The project is based on a popular West African game called Oware.
 Oware is an abstract strategy game where 2 players take turns placing seeds in a hole in a board. 
 
 Run the OwareGame.py file to play the game
+
+![alt text](https://github.com/sseun43/Oware_Game_Tkinter/blob/main/OwareGame_ScreenShot.png)
